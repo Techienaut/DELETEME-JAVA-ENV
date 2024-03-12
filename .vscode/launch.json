@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidIPAddress",
+            "request": "launch",
+            "mainClass": "ValidIPAddress",
+            "projectName": "DELETEME-JAVA-ENV_ad251f0a"
+        },
+        {
+            "type": "java",
+            "name": "CarPool",
+            "request": "launch",
+            "mainClass": "CarPool",
+            "projectName": "DELETEME-JAVA-ENV_ad251f0a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
